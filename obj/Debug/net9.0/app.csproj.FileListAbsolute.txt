@@ -1,0 +1,28 @@
+C:\Users\warre\app\bin\Debug\net9.0\app.exe
+C:\Users\warre\app\bin\Debug\net9.0\app.deps.json
+C:\Users\warre\app\bin\Debug\net9.0\app.runtimeconfig.json
+C:\Users\warre\app\bin\Debug\net9.0\app.dll
+C:\Users\warre\app\bin\Debug\net9.0\app.pdb
+C:\Users\warre\app\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\app\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+C:\Users\warre\app\obj\Debug\net9.0\app.AssemblyInfo.cs
+C:\Users\warre\app\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+C:\Users\warre\app\obj\Debug\net9.0\app.dll
+C:\Users\warre\app\obj\Debug\net9.0\refint\app.dll
+C:\Users\warre\app\obj\Debug\net9.0\app.pdb
+C:\Users\warre\app\obj\Debug\net9.0\app.genruntimeconfig.cache
+C:\Users\warre\app\obj\Debug\net9.0\ref\app.dll
+C:\Users\warre\learning C#\bin\Debug\net9.0\app.exe
+C:\Users\warre\learning C#\bin\Debug\net9.0\app.deps.json
+C:\Users\warre\learning C#\bin\Debug\net9.0\app.runtimeconfig.json
+C:\Users\warre\learning C#\bin\Debug\net9.0\app.dll
+C:\Users\warre\learning C#\bin\Debug\net9.0\app.pdb
+C:\Users\warre\learning C#\obj\Debug\net9.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\learning C#\obj\Debug\net9.0\app.AssemblyInfoInputs.cache
+C:\Users\warre\learning C#\obj\Debug\net9.0\app.AssemblyInfo.cs
+C:\Users\warre\learning C#\obj\Debug\net9.0\app.csproj.CoreCompileInputs.cache
+C:\Users\warre\learning C#\obj\Debug\net9.0\app.dll
+C:\Users\warre\learning C#\obj\Debug\net9.0\refint\app.dll
+C:\Users\warre\learning C#\obj\Debug\net9.0\app.pdb
+C:\Users\warre\learning C#\obj\Debug\net9.0\app.genruntimeconfig.cache
+C:\Users\warre\learning C#\obj\Debug\net9.0\ref\app.dll
